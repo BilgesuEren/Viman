@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/bilgesu/RiderProjects/Viman/Viman/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Viman.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Viman.props",
+      "PackagePath": "build\\Viman.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Viman.props",
+      "PackagePath": "buildMultiTargeting\\Viman.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Viman.props",
+      "PackagePath": "buildTransitive\\Viman.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

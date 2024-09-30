@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "pkD0CoAPztYm7TBb9HPRsIWdpAWJ04PaEOpfbY+XRVI=",
+  "Source": "Viman",
+  "BasePath": "_content/Viman",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Viman/wwwroot",
+      "Source": "Viman",
+      "ContentRoot": "/home/bilgesu/RiderProjects/Viman/Viman/wwwroot/",
+      "BasePath": "_content/Viman",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/bilgesu/RiderProjects/Viman/Viman/wwwroot/index.html",
+      "SourceId": "Viman",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/bilgesu/RiderProjects/Viman/Viman/wwwroot/",
+      "BasePath": "_content/Viman",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
